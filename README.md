@@ -1,6 +1,6 @@
 # VUnet_workingversion
 code repository (under development) for NeurIPS 2022 paper: Learning low-dimensional generalizable natural features from retina using a U-net
-
+the paper pdf is at: https://github.com/siwei-wang/VUnet_workingversion/blob/main/Decode_NeurIPS2022.pdf
 please check the repository https://github.com/sepalmer/VU-net for a working version
 
 model definition: vunet_def.py
